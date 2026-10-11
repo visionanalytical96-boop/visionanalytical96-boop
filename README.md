@@ -1,8 +1,10 @@
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
   <img alt="Vision Analytical: HPLC, GC and UV-Vis service, AMC and refurbished instruments. Ambernath, India, since 2016." src="assets/banner-light.svg" width="100%">
 </picture>
+</p>
 
 We keep analytical laboratories running. Since 2016, Vision Analytical has supplied, serviced and refurbished chromatography and spectroscopy instruments for labs across Maharashtra and Gujarat.
 
@@ -22,7 +24,7 @@ We keep analytical laboratories running. Since 2016, Vision Analytical has suppl
 
 ### Contact
 
-Phone [+91 91362 16080](tel:+919136216080) &nbsp;·&nbsp; Email [info@visionanalytical.co.in](mailto:info@visionanalytical.co.in) &nbsp;·&nbsp; Web [visionanalytical.co.in](https://visionanalytical.co.in/)
+Phone +91 91362 16080 &nbsp;·&nbsp; Email [info@visionanalytical.co.in](mailto:info@visionanalytical.co.in) &nbsp;·&nbsp; Web [visionanalytical.co.in](https://visionanalytical.co.in/)
 
 Ambernath, Thane, Maharashtra, India
 
